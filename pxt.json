@@ -1,5 +1,5 @@
 {
-    "name": "Battaglia Spaziale",
+    "name": "micro-space-wars",
     "description": "",
     "dependencies": {
         "core": "*",
